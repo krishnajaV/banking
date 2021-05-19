@@ -1,0 +1,4 @@
+pls enter name:
+age:
+address:
+gender:
